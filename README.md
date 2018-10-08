@@ -23,7 +23,7 @@ After all the nodes are inserted, print the left and the right height of the las
 
 >> Output screenshot is present in the folder 'output screenshot'
 >> Also created an AVL tree with the same elements from tree simulator from 'https://www.cs.usfca.edu/~galles/visualization/AVLtree.html' to verify our output.
->> A screenshot of the tree is also saved in the same screenshot folder for your reference.
+>> A screenshot of the tree is also saved in the same folder for reference.
 >> Verified that the code is getting successfully complied and run by command line.
 
 >> Note: The values in this program are directly passed in the main function, we can easily tweak the program to take the input from the user to make this more dynamic.
